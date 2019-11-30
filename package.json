@@ -1,0 +1,24 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "messenger-feature",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmSohan/chatApp.git"
+  },
+  "author": "sohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmSohan/chatApp/issues"
+  },
+  "homepage": "https://github.com/mmSohan/chatApp#readme",
+  "dependencies": {
+    "express": "*",
+    "node": "^13.1.0",
+    "socket.io": "^2.3.0"
+  }
+}
